@@ -1,0 +1,11 @@
+Pasar.id (e-commerce) | Responsive Website
+
+Program Language : HTML5, CSS3, Javascript, jQuery
+Code Editor	 : Visual Studio 2020
+Font Face	 : Helvetica Neue, Arial, Sans-serif
+Base Color	 : White, Yellow, Black
+Image Source	 : Free PNG Image
+Music By	 : A Whole New World (BGM channel)
+
+
+
